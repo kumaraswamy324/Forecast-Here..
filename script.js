@@ -3,7 +3,7 @@
 // Main function to fetch and display weather data
 function letforcast() {
     // API key for OpenWeatherMap
-    const apiKey = 'enterapikey';
+    const apiKey = '2421473703f81689a470c0592d17784a';
 
     // Get the city input from the user
     const city = document.getElementById('city').value;
